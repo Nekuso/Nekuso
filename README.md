@@ -8,6 +8,14 @@
 - ⚡ Fun fact: I love to make cinematic videos and watch workout🦾
 
 ### Connect with me:
+[![website](./img/twitter-light.svg)](https://twitter.com/Nekuso2#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Nekuso2#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/nekuso_xx#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/nekuso_xx#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kaihzan-nixxo-c-jamilla-1314a4227/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kaihzan-nixxo-c-jamilla-1314a4227/#gh-dark-mode-only)
 
 <!--
 **Nekuso/Nekuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
