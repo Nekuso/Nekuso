@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning everything 😁
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about API, React and server side languages
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to make cinematic videos and watch workout🦾
+
+### Connect with me:
 
 <!--
 **Nekuso/Nekuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
