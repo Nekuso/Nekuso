@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Nixxo - aka Nekuso 👋
+
+## I'm a Student and Web Developer!!
+
+- 🌱 I’m currently learning everything 😁
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about API, React and server side languages
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 <!--
 **Nekuso/Nekuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
