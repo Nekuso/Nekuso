@@ -1,4 +1,4 @@
-### Hi there, I'm Nixxo - aka Nekuso 👋
+### Hi there, I'm Nixxo - aka **Nekuso** 👋
 
 ## I'm a Student and Web Developer!!
 
