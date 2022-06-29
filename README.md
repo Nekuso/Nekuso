@@ -14,8 +14,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/nekuso_xx#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nekuso_xx#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kaihzan-nixxo-c-jamilla-1314a4227/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kaihzan-nixxo-c-jamilla-1314a4227/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Nekuso/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Nekuso/#gh-dark-mode-only)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
