@@ -37,10 +37,10 @@
 
 ---
 <a href="https://github.com/Nekuso/Nekuso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&hide=java,html,tex&title_color=9A57E6&text_color=c9cacc&icon_color=845CE6&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&hide=java,html,tex&title_color=4424a7&text_color=c9cacc&icon_color=5a36cc&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/Nekuso/Nekuso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&line_height=27&count_private=true&title_color=9AE62B&text_color=c9cacc&icon_color=845CE6&bg_color=1d1f21" alt="Nekuso's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&line_height=27&count_private=true&title_color=4424a7&text_color=c9cacc&icon_color=5a36cc&bg_color=1d1f21" alt="Nekuso's GitHub Stats" />
 </a>
 <!-- <img align="center" alt="Nekuso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
