@@ -39,12 +39,6 @@
 
 ### GitHub Stats:
 
-<<<<<<< HEAD
 ![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-=======
-![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&margin-w=auto)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false&margin-w=auto)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&margin-w=auto)
->>>>>>> 08186e2c864bde2f818a854d7326c78abdd3c949
