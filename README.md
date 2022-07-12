@@ -36,5 +36,7 @@
 <br />
 
 ---
-
+<a href="https://github.com/Nekuso/Nekuso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <img align="center" alt="Nekuso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
