@@ -3,11 +3,11 @@
 
 ### Hi there, I'm Nixxo - aka **Nekuso** 👋
 
-## I'm a Student and Web Developer!!
+## 🚀About Me
 
-- 🌱 I’m currently learning everything 😁
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about API, React and server side languages
+- 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
+- 😁 I am always open to learn new things and currently learning about React.
+- 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
 ### Connect with me:
@@ -20,7 +20,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Nekuso/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Nekuso/#gh-dark-mode-only)
 
-## Tech Stack:
+### Tech Stack:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-## GitHub Stats:
+### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&margin-w=auto)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false&margin-w=auto)
