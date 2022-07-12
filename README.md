@@ -20,7 +20,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Nekuso/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Nekuso/#gh-dark-mode-only)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
@@ -36,7 +36,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br />
 <br />
+
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
