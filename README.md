@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
-### <h2 display= flex align-items= center>Connect with me<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<h2 display= flex align-items= center>Connect with me<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 [![website](./img/twitter-light.svg)](https://twitter.com/Nekuso2#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Nekuso2#gh-dark-mode-only)
 &nbsp;&nbsp;
