@@ -1,8 +1,7 @@
 
 ![preview img](/preview.gif)
 
-<!-- ### Hi there, I'm Nixxo - aka **Nekuso** 👋 -->
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8900F7&lines=Hi+there%2C+I'm+Nixxo+-+aka+Nekuso+%F0%9F%91%8B)](https://git.io/typing-svg)
+### Hi there, I'm Nixxo - aka **Nekuso** 👋
 
 ## 🚀About Me
 
