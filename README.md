@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ![preview img](/preview.gif)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5400&color=7D00FF&lines=Hi+there%2C+I'm+Nixxo;Aka+Nekuso+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5400&color=7D00FF&lines=Hi+there%2C+I'm+Nixxo+-+Aka+Nekuso+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🚀About Me
 
@@ -12,9 +12,9 @@
 
 ## Connect with me:
 <div>
-    <a href="https://www.linkedin.com/in/nekuso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/Nekuso2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/nekuso_xx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/nekuso/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/Nekuso2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/nekuso_xx" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 ### Tech Stack:
