@@ -17,8 +17,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/nekuso_xx#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nekuso_xx#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Nekuso/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Nekuso/#gh-dark-mode-only)
+[![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nekuso/#gh-light-mode-only)
 
 ### Tech Stack:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
@@ -38,16 +37,16 @@
 ### Education
 <div>
     <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
-    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     <img src="https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white" />
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div>
 
 <br />
 <br />
-### GitHub Stats:
 
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
