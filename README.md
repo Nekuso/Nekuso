@@ -11,6 +11,11 @@
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
 ## Connect with me:
+<div>
+    <a href="https://www.linkedin.com/in/nekuso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/Nekuso2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/nekuso_xx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 [![website](./img/twitter-light.svg)](https://twitter.com/Nekuso2#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Nekuso2#gh-dark-mode-only)
 &nbsp;&nbsp;
