@@ -1,7 +1,7 @@
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ![preview img](/preview.gif)
 
-### Hi there, I'm Nixxo - aka **Nekuso** 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7D00FF&lines=Hi+there%2C+I'm+Nixxo+-+aka+Nekuso+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🚀About Me
 
@@ -34,9 +34,18 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br />
-<br />
 
+### Education
+<div>
+    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
+    <img src="https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+</div>
+
+<br />
+<br />
 ### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
