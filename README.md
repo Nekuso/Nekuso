@@ -1,6 +1,8 @@
 ![preview img](/preview.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5400&color=FFFF&center=true&lines=Hi+there+%F0%9F%91%8B;I'm+Nixxo+;-+Aka+%3CNekuso%2F%3E)](https://git.io/typing-svg)
+<p align="center">
+    <img src="/img/CodeIntro.svg"/>
+</p>
 
 ## 🚀About Me
 
