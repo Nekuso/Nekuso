@@ -6,8 +6,8 @@
 
 ## 🚀About Me
 
-<div align="space-between" style="display:flex; justify-content: space-between; width: 100%" >
-    <div>
+<div align="center" style="display:flex; justify-content: space-between; width: 100%" >
+    <div style="width: 50%">
         <p>👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing</p>
         <p>😁 I am always open to learn new things and currently learning about Typescript.</p>
         <p>🥅 2022 Goals: Keep learning and keep contributing</p>
