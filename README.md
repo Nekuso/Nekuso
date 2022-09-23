@@ -13,7 +13,7 @@
         <p>🥅 2022 Goals: Keep learning and keep contributing</p>
         <p>⚡ Fun fact: I love to make cinematic videos and workout🦾</p>
     </div>
-    <img src="/img/Neku.gif"/>
+    <img src="/img/Neku.gif" style="width: 50%"/>
 </div>
 
 
