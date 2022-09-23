@@ -9,11 +9,11 @@
 <table>
   <tr>
     <td valign="center">
-        <p>👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing</p>
-        <p>😁 I am always open to learn new things and currently learning about Typescript.</p>
-        <p>🥅 2022 Goals: Keep learning and keep contributing</p>
-        <p>⚡ Fun fact: I love to make cinematic videos and workout🦾</p>
-    <td>
+        <h3>👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing</h3>
+        <h3>😁 I am always open to learn new things and currently learning about Typescript.</h3>
+        <h3>🥅 2022 Goals: Keep learning and keep contributing</h3>
+        <h3>⚡ Fun fact: I love to make cinematic videos and workout🦾</h3>
+    <td align="center">
       <img src="/img/Neku.gif" align="center" style="width: 80%"/>
     </td>
   </tr>
