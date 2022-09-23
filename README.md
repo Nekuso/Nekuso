@@ -15,7 +15,7 @@
         <h4>⚡ Fun fact: I love to make cinematic videos and workout🦾</h4>
     </td>
     <td align="center" valign="center">
-      <img src="/img/Neku.gif" align="center" style="width: 80%"/>
+      <img src="/img/Neku.gif" align="center" valign="center" style="width: 80%"/>
     </td>
   </tr>
 </table>
