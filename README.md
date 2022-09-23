@@ -13,6 +13,7 @@
         <h4>😁 I am always open to learn new things and currently learning about Typescript.</h4>
         <h4>🥅 2022 Goals: Keep learning and keep contributing</h4>
         <h4>⚡ Fun fact: I love to make cinematic videos and workout🦾</h4>
+    </td>
     <td align="center" valign="center">
       <img src="/img/Neku.gif" align="center" style="width: 80%"/>
     </td>
