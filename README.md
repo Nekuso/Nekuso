@@ -6,16 +6,18 @@
 
 ## 🚀About Me
 
-<div align="center" style="display:flex; justify-content: space-between; width: 100%" >
-    <div style="width: 50%">
+<table>
+  <tr>
+    <td valign="center">
         <p>👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing</p>
         <p>😁 I am always open to learn new things and currently learning about Typescript.</p>
         <p>🥅 2022 Goals: Keep learning and keep contributing</p>
         <p>⚡ Fun fact: I love to make cinematic videos and workout🦾</p>
-    </div>
-    <img src="/img/Neku.gif" style="width: 50%"/>
-</div>
-
+    <td>
+      <img src="/img/Neku.gif" style="width: 50%"/>
+    </td>
+  </tr>
+</table>
 
 <!-- - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
