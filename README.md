@@ -40,6 +40,6 @@
 <h2 align="center">Github Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="35%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical" />
 </p>
