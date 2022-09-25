@@ -8,8 +8,6 @@
 <p align="center">
   <h3 align="center">About me</h3>
 </p>
-<br/>
-
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
 - 🥅 2022 Goals: Keep learning and keep contributing
@@ -19,8 +17,6 @@
 <p align="center">
   <h3 align="center">Tech Stack</h3>
 </p>
-<br/>
-<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -44,9 +40,8 @@
 <p align="center">
   <h3 align="center">Github Stats</h3>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="38%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical" />
 </p>
