@@ -5,7 +5,9 @@
     <img src="/img/CodeIntro.svg"/>
 </p>
 
-<h2 align="center">About me</h2>
+<p align="center">
+  <a align="center">About me</a>
+</p>
 <br/>
 
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
@@ -13,8 +15,9 @@
 - 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
-
-<a align="center">Tech Stack</a>
+<p align="center">
+  <a align="center">Tech Stack</a>
+</p>
 <br/>
 <br/>
 <p align="center">
@@ -37,7 +40,10 @@
 </p>
 <br/>
 
-<a align="center">Github Stats</a>
+<p align="center">
+  <a align="center">Github Stats</a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="35%"/>
