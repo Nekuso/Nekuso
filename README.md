@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
 
-<h2 align="center">Tech Stack</h2>
+<a align="center">Tech Stack</a>
 <br/>
 <br/>
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 <br/>
 
-<h2 align="center">Github Stats</h2>
+<a align="center">Github Stats</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="35%"/>
