@@ -21,7 +21,7 @@
   <h3 align="center">Tech Stack</h3>
 </p>
 <p align="center">
-  <p width= "50%">
+  <div width= "50%">
     <img width="auto" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
     <img width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
     <img width="auto" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
@@ -38,7 +38,7 @@
     <img width="auto" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> 
     <img width="auto" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/> 	
     <img width="auto" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  </p>
+  </div>
 </p>
 <br/>
 
