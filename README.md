@@ -1,28 +1,24 @@
 <p align="center">
   <img src="/img/Neku.gif" align="center" valign="center" style="width: 40%"/>
 </p>
-
-
 <p align="center">
     <img src="/img/CodeIntro.svg"/>
 </p>
-
 <h2 align="center">🚀About Me</h2>
-
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
 - 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
 <h2 align="center">Connect with me</h2>
-
 <div>
     <a href="https://www.linkedin.com/in/nekuso/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/Nekuso2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 
-### Tech Stack:
+<h2 align="center">Tech Stack</h2>
+
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -41,7 +37,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <h2 align="center">Education</h2>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
@@ -51,9 +46,8 @@
 </p>
 
 <h2 align="center">Github Stats</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="40%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical" />
 </p>
