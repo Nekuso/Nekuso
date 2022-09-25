@@ -5,6 +5,9 @@
     <img src="/img/CodeIntro.svg"/>
 </p>
 
+<h2 align="center">Tech Stack</h2>
+<br/>
+
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
 - 🥅 2022 Goals: Keep learning and keep contributing
@@ -12,6 +15,8 @@
 
 
 <h2 align="center">Tech Stack</h2>
+<br/>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -30,7 +35,7 @@
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/> 	
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
+<br/>
 
 <h2 align="center">Github Stats</h2>
 <p align="center">
