@@ -1,24 +1,10 @@
-![preview img](/preview.gif)
+<img src="/img/Neku.gif" align="center" valign="center" style="width: 80%"/>
 
 <p align="center">
     <img src="/img/CodeIntro.svg"/>
 </p>
 
 ## 🚀About Me
-
-<table>
-  <tr>
-    <td valign="center">
-        <h4>👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing</h4>
-        <h4>😁 I am always open to learn new things and currently learning about Typescript.</h4>
-        <h4>🥅 2022 Goals: Keep learning and keep contributing</h4>
-        <h4>⚡ Fun fact: I love to make cinematic videos and workout🦾</h4>
-    </td>
-    <td align="center" valign="center">
-      <img src="/img/Neku.gif" align="center" valign="center" style="width: 80%"/>
-    </td>
-  </tr>
-</table>
 
 <!-- - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
