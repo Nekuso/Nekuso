@@ -5,7 +5,7 @@
     <img src="/img/CodeIntro.svg"/>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">About me</h2>
 <br/>
 
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
