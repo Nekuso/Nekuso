@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a align="center">About me</a>
+  <a align="center"><h2>About me</h2></a>
 </p>
 <br/>
 
@@ -15,6 +15,7 @@
 - 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
+<br/>
 <p align="center">
   <a align="center">Tech Stack</a>
 </p>
