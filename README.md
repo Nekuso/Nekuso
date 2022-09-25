@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a align="center"><h2>About me</h2></a>
+  <h3 align="center">About me</h3>
 </p>
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 <p align="center">
-  <a align="center">Tech Stack</a>
+  <h3 align="center">Tech Stack</h3>
 </p>
 <br/>
 <br/>
@@ -42,7 +42,7 @@
 <br/>
 
 <p align="center">
-  <a align="center">Github Stats</a>
+  <h3 align="center">Github Stats</h3>
 </p>
 
 <p align="center">
