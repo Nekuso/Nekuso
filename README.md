@@ -41,7 +41,7 @@
   </p>
 
   <p>
-    <img src="/img/Neku.png" width:"30%">
+    <img src="/img/Neku.gif" width:"30%">
   </p>
 
 </p>
