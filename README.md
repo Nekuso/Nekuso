@@ -4,6 +4,7 @@
 <p align="center">
     <img src="/img/CodeIntro.svg"/>
 </p>
+
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
 - 🥅 2022 Goals: Keep learning and keep contributing
