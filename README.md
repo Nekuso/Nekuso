@@ -1,4 +1,4 @@
-<img src="/img/Neku.gif" align="center" valign="center" style="width: 80%"/>
+<img src="/img/Neku.gif" align="center" valign="center" style="width: 20%"/>
 
 <p align="center">
     <img src="/img/CodeIntro.svg"/>
