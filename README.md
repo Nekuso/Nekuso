@@ -8,10 +8,13 @@
 <p align="center">
   <h3 align="center">About me</h3>
 </p>
-- 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
-- 😁 I am always open to learn new things and currently learning about Typescript.
-- 🥅 2022 Goals: Keep learning and keep contributing
-- ⚡ Fun fact: I love to make cinematic videos and workout🦾
+
+<p align="center">
+  👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
+  😁 I am always open to learn new things and currently learning about Typescript.
+  🥅 2022 Goals: Keep learning and keep contributing
+  ⚡ Fun fact: I love to make cinematic videos and workout🦾
+</p>
 
 <br/>
 <p align="center">
