@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="/img/Neku.gif" align="center" valign="center" style="width: 40%"/>
+  <img src="/preview.gif" align="center" valign="center"/>
 </p>
 <p align="center">
     <img src="/img/CodeIntro.svg"/>
 </p>
-<h2 align="center">🚀About Me</h2>
-
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
 - 🥅 2022 Goals: Keep learning and keep contributing
@@ -13,8 +11,8 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center>
-  <a align="center href="https://www.linkedin.com/in/nekuso/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a align="center href="https://twitter.com/Nekuso2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a  href="https://www.linkedin.com/in/nekuso/" target="_blank" rel="noreferrer"><img align="center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a  href="https://twitter.com/Nekuso2" target="_blank" rel="noreferrer"><img align="center src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 
@@ -48,7 +46,7 @@
 
 <h2 align="center">Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="40%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical" />
 </p>
