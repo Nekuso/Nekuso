@@ -49,6 +49,9 @@
 </div>
 
 ### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" />
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
