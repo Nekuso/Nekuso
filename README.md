@@ -7,14 +7,15 @@
     <img src="/img/CodeIntro.svg"/>
 </p>
 
-## 🚀About Me
+<h2 align="center">🚀About Me</h2>
 
 - 👨‍💻 I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing
 - 😁 I am always open to learn new things and currently learning about Typescript.
 - 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: I love to make cinematic videos and workout🦾
 
-## Connect with me:
+<h2 align="center">Connect with me</h2>
+
 <div>
     <a href="https://www.linkedin.com/in/nekuso/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/Nekuso2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -39,22 +40,20 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Education
-<div>
+<h2 align="center">Education</h2>
+
+<p align="center">
     <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
     <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     <img src="https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white" />
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-</div>
-
-### GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">Github Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical" />
+</p>
