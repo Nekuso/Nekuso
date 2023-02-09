@@ -18,7 +18,7 @@
   </div>
   
   <div style="flex: 50%; padding: 10px;">
-    <img src="/img/Neku.gif" alt="image-description">
+    <img style="width: 100%" src="/img/Neku.gif" alt="image-description">
   </div>
 </div>
 
