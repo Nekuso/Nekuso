@@ -9,10 +9,18 @@
   <h2 align="left">About me👨‍💻</h2>
 </p>
 
-- I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.
-- I am always open to learn new things and currently learning about Typescript.
-- 2023 Goals: Keep learning and keep contributing.
-- Fun fact: I love to make cinematic videos and workout
+<div>
+  <div>
+    <p>I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.</p>
+    <p>I am always open to learn new things and currently learning about Typescript.</p>
+    <p>2023 Goals: Keep learning and keep contributing.</p>
+    <p>Fun fact: I love to make cinematic videos and workout</p>
+  </div>
+  <div>
+    <img src='/img/Neku.gif'/>
+  </div>
+
+</div>
 
 <br/>
 <p align="left">
