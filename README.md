@@ -1,10 +1,10 @@
 <p align="center">
   <img src="/Banner.gif" align="center" valign="center"/>
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="/img/CodeIntro.svg"/>
-</p> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=0e75b6&style=flat" alt="Nekuso" /> </p> -->
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=0e75b6&style=flat" alt="Nekuso" /> </p>
 <h3 align="left">About me👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="/img/Neku.gif">
 
