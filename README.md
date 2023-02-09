@@ -5,22 +5,22 @@
     <img src="/img/CodeIntro.svg"/>
 </p>
 
-<p align="center">
-  <h3 align="center">About me👨‍💻</h3>
+<p align="left">
+  <h2 align="left">About me👨‍💻</h2>
 </p>
 
-<p align="center">
-  I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing. 
-  I am always open to learn new things and currently learning about Typescript.
-  2022 Goals: Keep learning and keep contributing.
-  Fun fact: I love to make cinematic videos and workout
-</p>
+
+- I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing. 
+- I am always open to learn new things and currently learning about Typescript.
+- 2023 Goals: Keep learning and keep contributing.
+- Fun fact: I love to make cinematic videos and workout
+
 
 <br/>
-<p align="center">
-  <h3 align="center">Tech Stack🚀</h3>
+<p align="left">
+  <h2 align="left">Tech Stack🚀</h2>
 </p>
-<p align="center">
+<p align="left">
   <img width="auto" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
   <img width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img width="auto" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
