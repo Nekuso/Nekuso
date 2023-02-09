@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/preview.gif" align="center" valign="center"/>
+  <img src="/Hero.gif" align="center" valign="center"/>
 </p>
 <p align="center">
     <img src="/img/CodeIntro.svg"/>
@@ -9,12 +9,10 @@
   <h2 align="left">About me👨‍💻</h2>
 </p>
 
-
-- I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing. 
+- I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.
 - I am always open to learn new things and currently learning about Typescript.
 - 2023 Goals: Keep learning and keep contributing.
 - Fun fact: I love to make cinematic videos and workout
-
 
 <br/>
 <p align="left">
