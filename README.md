@@ -1,9 +1,9 @@
 <p align="center">
   <img src="/Banner.gif" align="center" valign="center"/>
 </p>
-<p align="center">
-    <img src="/img/CodeIntro.svg"/>
-</p>
+<!-- <p align="center">
+  <img src="/img/CodeIntro.svg"/>
+</p> -->
 
 <h2 align="left">About me👨‍💻</h2>
 <img align="right" alt="Coding" width="400" src="/img/Neku.gif">
