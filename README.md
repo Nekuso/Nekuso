@@ -13,10 +13,7 @@
 - 2023 Goals: Keep learning and keep contributing.
 - Fun fact: I love to make cinematic videos and workout
 
-<br/>
-<p align="left">
-  <h2 align="left">Tech Stack🚀</h2>
-</p>
+<h2 align="left">Tech Stack🚀</h2>
 <p align="left">
   <img width="auto" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
   <img width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
