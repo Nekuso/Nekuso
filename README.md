@@ -8,6 +8,7 @@
 <p align="left">
   <h2 align="left">About me👨‍💻</h2>
 </p>
+
 <div style="display: flex;">
   <div style="flex: 50%; padding: 10px;">
     <p>I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.</p>
