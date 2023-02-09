@@ -5,9 +5,8 @@
     <img src="/img/CodeIntro.svg"/>
 </p>
 
+<h2 align="left">About me👨‍💻</h2>
 <img align="right" alt="Coding" width="400" src="/img/Neku.gif">
-
-<p align="left"> <a href="https://twitter.com/Nekuso02" target="blank"><img src="https://img.shields.io/twitter/follow/Nekuso02?logo=twitter&style=for-the-badge" alt="Nekuso02" /></a> </p>
 
 - I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.
 - I am always open to learn new things and currently learning about Typescript.
