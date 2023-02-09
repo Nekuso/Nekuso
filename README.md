@@ -5,22 +5,13 @@
     <img src="/img/CodeIntro.svg"/>
 </p>
 
-<p align="left">
-  <h2 align="left">About me👨‍💻</h2>
-</p>
+<h2 align="left">About me👨‍💻</h2>
+<img align="right" alt="Coding" width="400" src="/img/Neku.gif">
 
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 10px;">
-    <p>I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.</p>
-    <p>I am always open to learn new things and currently learning about Typescript.</p>
-    <p>2023 Goals: Keep learning and keep contributing.</p>
-    <p>Fun fact: I love to make cinematic videos and workout</p>
-  </div>
-  
-  <div style="flex: 50%; padding: 10px;">
-    <img style="width: 100%" src="/img/Neku.gif" alt="image-description">
-  </div>
-</div>
+- I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.
+- I am always open to learn new things and currently learning about Typescript.<
+- 2023 Goals: Keep learning and keep contributing.<
+- Fun fact: I love to make cinematic videos and workout<
 
 <br/>
 <p align="left">
