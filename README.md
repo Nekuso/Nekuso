@@ -4,8 +4,8 @@
 <!-- <p align="center">
   <img src="/img/CodeIntro.svg"/>
 </p> -->
-
-<h2 align="left">About me👨‍💻</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=0e75b6&style=flat" alt="Nekuso" /> </p>
+<h3 align="left">About me👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="/img/Neku.gif">
 
 - I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.
@@ -13,7 +13,7 @@
 - 2023 Goals: Keep learning and keep contributing.
 - Fun fact: I love to make cinematic videos and workout
 
-<h2 align="left">Tech Stack🚀</h2>
+<h3 align="left">Tech Stack🚀</h3>
 <p align="left">
   <img width="auto" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
   <img width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
