@@ -5,8 +5,6 @@
 <div align="center">
 <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=9A45FF&style=flat-square" alt="views" />
-  <!-- Github Repos -->
-  <img src="https://img.shields.io/github/repo-size/Nekuso/Nekuso?color=9A45FF&style=flat-square" alt="repo size" />
   <!-- Github Stars -->
   <img src="https://img.shields.io/github/stars/Nekuso?color=9A45FF&style=flat-square" alt="stars" />
   <!-- Latest commit -->
@@ -31,8 +29,8 @@
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=midnight-purple&hide_border=true&hide=css,html&langs_count=8">
 </div>
 
 <h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
