@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=9A45FF&width=435&lines=When+I'm+not+coding%2C+I'm+probably+at+the+gym;or+watching+anime." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=9A45FF&center=true&vCenter=true&width=435&lines=When+I'm+not+coding%2C;I'm+probably+at+the+gym+%F0%9F%92%AA%F0%9F%8F%BC;or+watching+marvel+movies+%F0%9F%8D%BF" alt="Typing SVG" /></a>
 </p>
 
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
@@ -41,8 +41,6 @@
   <img align="center" alt="Nekuso-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 <!-- Tailwind -->
   <img align="center" alt="Nekuso-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <!-- Frame-motion -->
-  <img align="center" alt="Nekuso-Framer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg">
   <!-- Git -->
   <img align="center" alt="Nekuso-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <!-- Github -->
