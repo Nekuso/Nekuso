@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/github/last-commit/Nekuso/Nekuso?color=9A45FF&style=flat-square" alt="last commit" />
 </div>
 
-<h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
+<h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"></h2>
 
 <ul>
-  <li>🔭 I’m currently working on something cool 🚀! <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"></li>
+  <li>🔭 I’m currently working on something cool 🚀!</li>
   <li>🌱 I’m currently learning <b>Typescript, React Native, Laravel and Docker</b>.</li>
   <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">nixxojam@gmail.com</a></b></li>
   <li>⚡ Fun fact: I go to gym more often</li>
