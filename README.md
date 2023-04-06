@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Banner.gif">
 </div>
-
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=04D361&style=flat-square" alt="views" />
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&width=435&lines=When+I'm+not+coding%2C+I'm+probably+at+the+gym;or+watching+anime." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=9A45FF&width=435&lines=When+I'm+not+coding%2C+I'm+probably+at+the+gym;or+watching+anime." alt="Typing SVG" /></a>
 </p>
 
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
@@ -35,16 +35,22 @@
   <img align="center" alt="Nekuso-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <!-- React -->
   <img align="center" alt="Nekuso-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <!-- Laravel -->
+  <img align="center" alt="Nekuso-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 <!-- NPM -->
   <img align="center" alt="Nekuso-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 <!-- Tailwind -->
   <img align="center" alt="Nekuso-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <!-- Frame-motion -->
+  <img align="center" alt="Nekuso-Framer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg">
   <!-- Git -->
   <img align="center" alt="Nekuso-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <!-- Github -->
   <img align="center" alt="Nekuso-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <!-- Firebase -->
   <img align="center" alt="Nekuso-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <!-- MySQL -->
+  <img align="center" alt="Nekuso-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 <h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
