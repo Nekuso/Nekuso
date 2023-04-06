@@ -2,7 +2,13 @@
   <img src="Banner.gif">
 </div>
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=04D361&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=9A45FF&style=flat-square" alt="views" />
+<!-- Latest commit -->
+<img src="https://img.shields.io/github/last-commit/Nekuso/Nekuso?color=9A45FF&style=flat-square" alt="last commit" />
+<!-- Github Followers -->
+<img src="https://img.shields.io/github/followers/Nekuso?color=9A45FF&style=flat-square" alt="followers" />
+<!-- Github Stars -->
+<img src="https://img.shields.io/github/stars/Nekuso?color=9A45FF&style=flat-square" alt="stars" />
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
@@ -49,6 +55,9 @@
   <img align="center" alt="Nekuso-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <!-- MySQL -->
   <img align="center" alt="Nekuso-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <!-- VS Code -->
+  <img align="center" alt="Nekuso-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
 </div>
 
 <h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
