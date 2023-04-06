@@ -1,45 +1,50 @@
-<p align="center">
-  <img src="/Banner.gif" align="center" valign="center"/>
-</p>
-<p align="center">
-  <img src="/img/CodeIntro.svg"/>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=0e75b6&style=flat" alt="Nekuso" /> </p>
-<h3 align="left">About me👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="/img/Neku.gif">
-
-- I am basically a junior front end developer and also interested in DevOps, Machine Learning & Cloud Computing.
-- I am always open to learn new things and currently learning about Typescript.
-- 2023 Goals: Keep learning and keep contributing.
-- Fun fact: I love to make cinematic videos and workout
-
-
-<h3 align="left">Tech Stack🚀</h3>
-<p align="left">
-  <img width="auto" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
-  <img width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img width="auto" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-  <img width="auto" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> 
-  <img width="auto" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
-  <img width="auto" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
-  <img width="auto" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-  <img width="auto" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
-  <img width="auto" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/> 
-  <img width="auto" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img width="auto" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
-  <img width="auto" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> 
-  <img width="auto" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/> 	
-  <img width="auto" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-<br/>
+<div align="center">
+  <img src="Banner.gif">
+</div>
 
 <p align="center">
-  <h3 align="center">Github Stats📊</h3>
+  <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Nekuso/trackxp?color=04D361&labelColor=000000">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&theme=radical" width ="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=radical" width ="38%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekuso&theme=radical" />
-</p>
+
+<h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
+
+<ul>
+  <li>🔭 I’m currently working on something cool 🚀!</li>
+  <li>🌱 I’m currently learning <b>Typescript, React Native, Laravel and Ruby on Rails</b>.</li>
+  <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">nixxojam@gmail.com</a></b></li>
+  <li>⚡ Fun fact: I go to gym more often</li>
+</ul>
+
+<br>
+
+<h2>𝑆𝑡𝑎𝑡𝑠</h2>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nekuso&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuso&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8">
+</div>
+
+<h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
+
+<div style="display: inline_block">
+  <img align="center" alt="Nekuso-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nekuso-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+
+<h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
+
+<div>
+  <a href="https://www.linkedin.com/in/nekuso/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/nekuso_xx" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.gg/Nekuso#3718" target="blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="jchn146#0587">
+  </a>
+  <a href="mailto:nixxojam@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
