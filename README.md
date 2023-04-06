@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.gif">
+  <img swidth="100vw" src="Banner.gif">
 </div>
 
 <p align="center">
