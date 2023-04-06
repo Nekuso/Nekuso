@@ -1,14 +1,17 @@
 <div align="center">
   <img src="Banner.gif">
 </div>
+
+<div align="center">
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=9A45FF&style=flat-square" alt="views" />
-<!-- Latest commit -->
-<img src="https://img.shields.io/github/last-commit/Nekuso/Nekuso?color=9A45FF&style=flat-square" alt="last commit" />
-<!-- Github Followers -->
-<img src="https://img.shields.io/github/followers/Nekuso?color=9A45FF&style=flat-square" alt="followers" />
-<!-- Github Stars -->
-<img src="https://img.shields.io/github/stars/Nekuso?color=9A45FF&style=flat-square" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=9A45FF&style=flat-square" alt="views" />
+  <!-- Github Repos -->
+  <img src="https://img.shields.io/github/repo-size/Nekuso/Nekuso?color=9A45FF&style=flat-square" alt="repo size" />
+  <!-- Github Stars -->
+  <img src="https://img.shields.io/github/stars/Nekuso?color=9A45FF&style=flat-square" alt="stars" />
+  <!-- Latest commit -->
+  <img src="https://img.shields.io/github/last-commit/Nekuso/Nekuso?color=9A45FF&style=flat-square" alt="last commit" />
+</div>
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
