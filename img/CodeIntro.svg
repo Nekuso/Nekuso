@@ -26,7 +26,7 @@
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            I&#039;m Nixxo
+            When I'm not coding, I'm probably at the gym
         </textPath>
     </text>
 
@@ -38,7 +38,8 @@
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
-            -Aka &lt;Nekuso/&gt;
+            <!-- -Aka &lt;Nekuso/&gt; -->
+            or watching anime.
         </textPath>
     </text>
 
