@@ -1,9 +1,9 @@
 <div align="center">
-  <img swidth="100vw" src="Banner.gif">
+  <img width="100vw" src="Banner.gif">
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=04D361&style=flat" alt="views" />
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Nekuso/trackxp?color=04D361&labelColor=000000">
 </p>
 
