@@ -42,6 +42,8 @@
   <img align="center" alt="Nekuso-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <!-- React -->
   <img align="center" alt="Nekuso-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <!-- Vue -->
+  <img align="center" alt="Nekuso-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg">
   <!-- Laravel -->
   <img align="center" alt="Nekuso-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <!-- NodeJS -->
