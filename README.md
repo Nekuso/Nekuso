@@ -16,7 +16,7 @@
 <ul>
   <li>🔭 I’m currently working on something cool 🚀!</li>
   <li>🌱 I’m currently learning <b>ThreeJS, Nuxt and GSAP</b>.</li>
-  <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">nixxojam@gmail.com</a></b></li>
+  <li>📫 How to reach me: <b><a href="mailto:nixxojam555@gmail.com">nixxojam555@gmail.com</a></b></li>
   <li>⚡ Fun fact: I'm a huge fan of Marvel</li>
 </ul>
 
