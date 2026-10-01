@@ -12,7 +12,6 @@
 
 <ul>
   <li>🔭 I’m currently working on Expo mobile development.</li>
-  <li>📫 How to reach me: <b><a href="mailto:nixxojam@gmail.com">nixxojam555@gmail.com</a></b></li>
 </ul>
 
 <br>
