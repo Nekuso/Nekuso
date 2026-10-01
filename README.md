@@ -1,14 +1,11 @@
 <div align="center">
-  <img src="Banner.gif">
+  <img src="[Banner.gif](https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg)">
 </div>
 
 <div align="center">
 <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Nekuso&label=Profile%20views&color=9A45FF&style=flat-square" alt="views" />
-  <!-- Github Stars -->
-  <img src="https://img.shields.io/github/stars/Nekuso?color=9A45FF&style=flat-square" alt="stars" />
-  <!-- Latest commit -->
-  <img src="https://img.shields.io/github/last-commit/Nekuso/Nekuso?color=9A45FF&style=flat-square" alt="last commit" />
+
 </div>
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"></h2>
